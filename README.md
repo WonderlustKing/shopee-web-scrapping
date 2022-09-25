@@ -1,32 +1,13 @@
 # shopee-web-scrapping
 
-FIXME: description
+A web scrapper for Shoppe.sg which search and save into a CSV file the most popular items from given category-ids.
 
 ## Installation
 
-Download from http://example.com/FIXME.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar shopee-web-scrapping-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+lein run category-id1 category-id2 category-id3 ...
 
 ## License
 
