@@ -7,7 +7,9 @@ A web scrapper for Shoppe.sg which search and save into a CSV file the most popu
 
 ## Usage
 
+```clojure
 lein run category-id1 category-id2 category-id3 ...
+```
 
 ## License
 
